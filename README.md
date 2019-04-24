@@ -1,2 +1,2 @@
-Hello World! My Name Is Wandile and I'm here to conquer you!
+Hello Umuzi! My Name Is Wandile and I'm ready to code!
 
